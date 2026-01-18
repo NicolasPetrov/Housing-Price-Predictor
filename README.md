@@ -354,7 +354,7 @@ Housing-Price-Predictor/
 
 ## 🏆 Real Estate Market Examples
 
-### Elite Stalin-Era Building in Central District
+### Elite Building in Central District
 ```python
 elite_property = {
     'total_area': 120, 'building_prestige': 'elite', 'year_built': 1950,
