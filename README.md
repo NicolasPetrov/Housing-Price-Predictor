@@ -1,7 +1,7 @@
 # Housing Price Predictor
 **Housing Price Predictor** is an advanced machine learning system for predicting real estate prices using XGBoost with comprehensive factor analysis. Built with a web interface powered by Streamlit, this application provides highly accurate price predictions with detailed model explanations and interactive visualizations using **41 comprehensive factors** instead of basic property characteristics.
 
-<img width="1429" alt="housingpricepredictor" src="https://github.com/user-attachments/assets/a3fec453-b305-4725-b909-b17fa7b4cb49" />
+<img width="1432" height="672" alt="housingpricepredictor" src="https://github.com/user-attachments/assets/44dc03b1-5e23-48fa-9164-d8e620464052" />
 
 This project serves as an example of building a production-ready machine learning application with advanced feature engineering, comprehensive environmental and social factor analysis, and extensive real estate market modeling.
 
